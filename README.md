@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyanshuAcharya41
-- 👀 I’m interested in python, C++ 
+- 👀 I’m interested in python, C++ ,HTML,CSS, MySQL
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on different challenged problems.
 - 📫 How to reach me Priyanshuacharya2030@gmail.com and
