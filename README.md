@@ -1,5 +1,92 @@
-# 💫 About Me:
-👋 Hi, I'm Priyanshu Acharya<br>🎯 Backend Developer | Frontend Developer | HTML | CSS | REACT | 💡 AI/ML Enthusiast | 🦀 Learning Rust<br><br>I'm a passionate developer who loves solving real-world problems with technology. Whether it's building intelligent systems that understand human emotions or experimenting with blockchain and smart contracts, I thrive at the intersection of innovation and impact.<br><br>🚀 About Me<br>🔭 Currently building: Multimodal Emotion Detection System using face, voice, and text fusion<br>🌐 Participating in: MP's Biggest Web 3.0 Build-a-thon – building on Stellar with Rust<br>🧠 Learning: Advanced concepts in Rust, Web3, and Smart Contracts<br>💬 Ask me about: React, Python, Machine Learning, APIs, Streamlit, or Git<br>📫 Reach me at: priyanshuacharyaofficial@gmail.com<br>🌟 Fun fact: I built a URL Shortener backend and enjoyed every second of it 😄
+# Hi, I'm Priyanshu Acharya 👋
+
+I'm a Computer Science undergraduate and Software Developer Intern with hands-on experience in building full-stack applications, backend systems, and cloud deployment workflows. I enjoy working close to real-world systems — from internal ERP tools to cloud automation platforms — and learning how products scale beyond just writing code.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 💼 Software Developer Intern at **The Stack Mentalist**
+- 🛠️ Experience across backend development, system architecture, and DevOps fundamentals
+- 🚀 Interested in building scalable products and understanding how things work end-to-end
+- 🏏 State-level cricket player with a strong team mindset
+
+---
+
+## 💼 Experience
+
+### Software Developer Intern — The Stack Mentalist  
+**Sep 2025 – Present**
+
+- Working in an Agile environment across multiple internal and client-facing products.
+- Built a **Survey Module** for an ERP/HRMS system with **feature flag–based rollouts**.
+- Contributed to backend architecture for a **Virtual Office Simulator** project.
+- Currently working on a **cloud deployment agent**, gaining hands-on exposure to:
+  - Docker & containerization  
+  - CI/CD pipelines  
+  - Terraform-based infrastructure provisioning  
+  - Backend services using Node.js, NestJS, and Express.js
+
+---
+
+### IT & Operations Intern — Dashlane Corporation Pvt. Ltd.  
+**Jul 2024 – Nov 2024**
+
+- Set up complete IT infrastructure including domain registration, hosting, and business email systems.
+- Designed and developed the company’s official website end-to-end.
+- Performed content research and UI/UX design using Figma and Canva.
+- Built the website using HTML, CSS, JavaScript, and GSAP animations.
+- Managed deployment and hosting via cPanel on GoDaddy.
+
+---
+
+## 🧠 Projects
+
+### 🔹 JurisTech – AI Legal Assistant
+- AI-powered legal assistant built using **React.js** and **FastAPI**.
+- Supports IPC analysis, precedent search, and legal document drafting.
+- Integrated CrewAI, RAG, and OpenAI APIs with a modular backend.
+- Docker-enabled setup for streamlined execution.
+
+### 🔹 DeploySphere – Automated Cloud Deployment Platform
+- Built a multi-step platform for deploying applications to **AWS and GCP**.
+- Automated infrastructure provisioning using **Terraform and Ansible**.
+- Focused on reducing manual DevOps effort through codified pipelines.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Java, JavaScript (ES6+)  
+**Frameworks & Libraries:** React, Node.js, NestJS, Express, MERN  
+**Databases:** MongoDB, MySQL  
+**Dev & Design Tools:** Git, GitHub, VS Code, Figma  
+**Core Concepts:** DSA, OOP, REST APIs, DBMS, OS, SDLC  
+**Problem Solving:** 550+ problems solved across coding platforms
+
+---
+
+## 🏆 Achievements & Leadership
+
+- President, Student Activity Council (OIST) — led a 24-member team and organized 40+ events with 20,000+ participants.
+- State-level Cricket Player.
+- Global Rank 86 — LeetCode Contest 463.
+- Global Rank 417 — CodeChef Starters 194D.
+- 1st place among 500+ candidates — Code2Win National Coding Competition.
+- Finalist — Washington Hackathon 2025 & Prayatna 2.0 Hackathon.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: priyanshuacharyaofficial@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/priyanshuacharya09  
+- 💻 GitHub: https://github.com/PriyanshuAcharya41  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate.
 
 
 ## 🌐 Socials:
