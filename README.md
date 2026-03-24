@@ -92,9 +92,9 @@ Git, GitHub, Postman, VS Code
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn Link]  
-- 💻 GitHub: [Your GitHub Link]  
-- 📧 Email: [Your Email]  
+- 💼 LinkedIn: [www.linkedin.com/in/priyanshuacharya09]  
+- 💻 GitHub: [[Your GitHub Link](https://github.com/PriyanshuAcharya41)]  
+- 📧 Email: [Priyanshuacharyaofficial@gmail.com]  
 
 ---
 
